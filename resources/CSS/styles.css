@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.head {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.interest_points {
+    font-size: 21px;
+    color: gray;
+}
+
+.footer_cr {
+    text-align: right;
+    color: gray;
+}
+
